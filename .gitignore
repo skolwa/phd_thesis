@@ -8,6 +8,6 @@
 *.dvi
 *.lof
 *.toc
-*.gz
+*synctex.gz
 ./Drafts
 ReadMe.txt
