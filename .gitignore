@@ -1,0 +1,10 @@
+.DS_Store
+*.aux
+*.log
+*.lot
+*.out
+*.blg
+*.bbl
+*.dvi
+./Drafts
+ReadMe.txt

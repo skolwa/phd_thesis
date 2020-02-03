@@ -1,0 +1,122 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces 160 MHz radio map from \citet {Reber1944}}}{3}{figure.1.1}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Near-infrared Hubble $K$-$z$ diagram \citep {LillyLongair1982}}}{5}{figure.1.2}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces $K$-$z$ diagram for elliptical radio galaxies from \citet {rocca-volmerange2004}}}{6}{figure.1.3}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Simulation snapshots of bi-conical radio jet from \citet {Gaibler2011}}}{7}{figure.1.4}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces AGN vs SF luminosity from \citet {Drouart2014}}}{8}{figure.1.5}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces AGN vs SF luminosity from \citet {falkendal2019}}}{9}{figure.1.6}
+\contentsline {figure}{\numberline {1.7}{\ignorespaces HzRGs relative to Main Sequence in \citet {falkendal2019}}}{9}{figure.1.7}
+\contentsline {figure}{\numberline {1.8}{\ignorespaces SFRD as a function of redshift in \citet {MadauDickinson2014}}}{10}{figure.1.8}
+\contentsline {figure}{\numberline {1.9}{\ignorespaces Cygnus A radio imaging in 1966 and 1996}}{14}{figure.1.9}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {The nearby ($d_{\rm L} = 256.3$ Mpc) radio galaxy, Cygnus A, observed with the Cambridge Telescope with a synthesised beam of $23'' \times 35''$ observed at $\lambda =21$ cm. The corresponding radio contours show the double-lobed morphology. The radio contours are superimposed over an optical image taken using the Hale Reflector Telescope. The optical image has a $4' \times 6'$ wide field-of-view \citep {Moffet1966}.}}}{14}{subfigure.9.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Cygnus A observed with the Very Large Array (VLA) at tuning frequency of $\nu _{\rm obs} = 5$ GHz \citep {CarilliBarthel1996}.}}}{14}{subfigure.9.2}
+\contentsline {figure}{\numberline {1.10}{\ignorespaces A general view of a galaxy's circumgalactic medium (CGM)}}{18}{figure.1.10}
+\contentsline {figure}{\numberline {1.11}{\ignorespaces Phase diagram of a simulated gas-mass distribution at $z=0$}}{20}{figure.1.11}
+\contentsline {figure}{\numberline {1.12}{\ignorespaces Multi-phase CGM mass surface-density profiles}}{21}{figure.1.12}
+\contentsline {figure}{\numberline {1.13}{\ignorespaces Composite radio galaxy spectrum from galaxies at $0.1 < z < 3$}}{23}{figure.1.13}
+\contentsline {figure}{\numberline {1.14}{\ignorespaces Keck 2D and 1D spectra from \citet {villar-martin2003}}}{24}{figure.1.14}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{24}{subfigure.14.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{24}{subfigure.14.2}
+\contentsline {figure}{\numberline {1.15}{\ignorespaces Intensity and velocity map from \citet {swinbank2015}}}{28}{figure.1.15}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{28}{subfigure.15.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{28}{subfigure.15.2}
+\contentsline {figure}{\numberline {1.16}{\ignorespaces Channels maps of CO(1-0) in MRC1138-262 from \citet {emonts2018}}}{29}{figure.1.16}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Cross-match radius determination for VLA/SDSS catalogue}}{35}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces VLA/SDSS source 1.4 GHz radio luminosity redshift diagram}}{36}{figure.2.2}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Comparison of SDSS spectroscopic to photometric redshifts of AGN sample}}{37}{figure.2.3}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces $K-$band-redshift diagram for radio AGN and sample (ii) control galaxies}}{41}{figure.2.4}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces $K-$band-redshift diagram for radio AGN and sample (iii) control galaxies}}{42}{figure.2.5}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces ($g-K$)-colour-redshift diagram for radio AGN and control galaxies in sample (iii)}}{43}{figure.2.6}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Sample (i): Mean and median surface densities, $\Sigma _{2,\rm {R}}$ and $\Sigma _{5,\rm {R}},$ in $L_{1.4}$ bins.}}{45}{figure.2.7}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Sample (i): $\Sigma _2$ and $\Sigma _5$ histograms}}{46}{figure.2.8}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Sample (ii): Mean and median surface densities, $\Sigma _{2,\rm {R}}$ and $\Sigma _{5,\rm {R}}$ in $L_{1.4}$ bins.}}{47}{figure.2.9}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Sample (ii): $\Sigma _2$ and $\Sigma _5$ histograms}}{48}{figure.2.10}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Sample (iii): Mean and median surface densities, $\Sigma _{2,\rm {R}}$ and $\Sigma _{5,\rm {R}},$ in $L_{1.4}$ bins.}}{50}{figure.2.11}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Sample (iii): $\Sigma _2$ and $\Sigma _5$ histograms; $\Sigma _{2,\rm {R}}$ and $\Sigma _{5,\rm {R}}$ histograms}}{51}{figure.2.12}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$\Sigma _2$ distributions for AGN and control samples}}}{51}{subfigure.12.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$\Sigma _5$ distributions for AGN and control samples}}}{51}{subfigure.12.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$\Sigma _{2,\rm {R}}$ distributions for AGN and control samples}}}{51}{subfigure.12.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {$\Sigma _{5,\rm {R}}$ distributions for AGN and control samples}}}{51}{subfigure.12.4}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces MUSE line and continuum (white-light) image of MRC 0943-242}}{60}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces MUSE spectrum of the bright nucleus in MRC 0943-243}}{61}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces \textup {He\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {II}}} $\lambda $1640 line in MUSE and its best-fit}}{64}{figure.3.3}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Ly$\alpha $\nobreakspace {}$\lambda 1216$ line in MUSE and its best-fit}}{66}{figure.3.4}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces \textup {C\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {IV}}} $\lambda \lambda 1548,1551$ and \textup {N\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {V}}} $\lambda \lambda 1238,1243$ lines in MUSE and their best-fits}}{68}{figure.3.5}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\textup {C\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {IV}}} doublet line}}}{68}{subfigure.5.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\textup {N\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {V}}} doublet line}}}{68}{subfigure.5.2}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces \textup {Si\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {IV}}} $\lambda \lambda 1393,1402$ + \textup {O\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {IV]}}} intercombination line in MUSE and its best-fit}}{69}{figure.3.6}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces \textup {Si\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {II}}} $\lambda $1260 absorption line in MUSE and its best fit}}{77}{figure.3.7}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces \textup {Si\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {II}}} $\lambda $1527 absorption line in MUSE and its best fit}}{78}{figure.3.8}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Velocity shifts of absorbers for resonant ions}}{79}{figure.3.9}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces \textup {C\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {III]}}} $\lambda 1906,1908$ and \textup {C\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {II}}} $\lambda 2326$ lines and their best-fits}}{80}{figure.3.10}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{80}{subfigure.10.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{80}{subfigure.10.2}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces HST rest-UV image overlaid with MUSE \textup {He\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {II}}} and VLA 4.7 GHz contours}}{83}{figure.3.11}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces MUSE \textup {He\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {II}}} narrow-band images}}{86}{figure.3.12}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\textup {He\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {II}}} blueshifted: $6400 - 6412$ $\unhbox \voidb@x \hbox {\normalfont \r A};$ blue interval in Fig. \ref {fig:0943-emission}(d)}}}{86}{subfigure.12.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\textup {He\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {II}}} diffuse: $6425 - 6430$ $\unhbox \voidb@x \hbox {\normalfont \r A};$ green interval in Fig. \ref {fig:0943-emission}(d)}}}{86}{subfigure.12.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {\textup {He\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {II}}} redshifted: $6445 - 6450$ $\unhbox \voidb@x \hbox {\normalfont \r A};$ red interval in Fig. \ref {fig:0943-emission}(d)}}}{86}{subfigure.12.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {\textup {He\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {II}}} line emission}}}{86}{subfigure.12.4}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces $N_\textup {C\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {IV}}}$ and $N_\textup {N\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {V}}}$ column densities of host galaxy and quasar absorbers}}{87}{figure.3.13}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Comparison with associated quasar absorption}}}{87}{subfigure.13.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Comparison with intervening quasar absorption}}}{87}{subfigure.13.2}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces $N_\textup {C\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {IV}}}$ and $N_\textup {Si\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {IV}}}$ column densities of host galaxy and quasar absorbers}}{87}{figure.3.14}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Absorber 1: \textup {\textsc {cloudy}} photoionisation predictions}}{90}{figure.3.15}
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Absorber 2: \textup {\textsc {cloudy}} photoionisation predictions}}{91}{figure.3.16}
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Absorber 3: \textup {\textsc {cloudy}} photoionisation predictions}}{92}{figure.3.17}
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Cross-section schematic of the circumgalactic medium of MRC 0943-242}}{95}{figure.3.18}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces MRC 0943-242 [\textup {C\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {i}}}](1-0) line spectra and moment-0 maps}}{109}{figure.4.1}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{109}{subfigure.1.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{109}{subfigure.1.2}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces MRC 0943-242: [\textup {C\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {i}}}](1-0) moment-0 maps, VLA C-band and Spitzer IRAC 1 images}}{110}{figure.4.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{110}{subfigure.2.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{110}{subfigure.2.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces TN J0205+2422 [\textup {C\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {i}}}](1-0) line spectra and moment-0 maps}}{111}{figure.4.3}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{111}{subfigure.3.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{111}{subfigure.3.2}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces TN J0205+2422: [\textup {C\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {i}}}](1-0) moment-0 maps, VLA C-band and Spitzer IRAC 1 images}}{112}{figure.4.4}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{112}{subfigure.4.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{112}{subfigure.4.2}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces TN J0121+1320 [\textup {C\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {i}}}](1-0) line spectra and moment-0 maps}}{114}{figure.4.5}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{114}{subfigure.5.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{114}{subfigure.5.2}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces TN J0121+1320: [\textup {C\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {i}}}](1-0) moment-0 maps, VLA C-band and Spitzer IRAC 1 images}}{115}{figure.4.6}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{115}{subfigure.6.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{115}{subfigure.6.2}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces 4C+03.24 [\textup {C\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {i}}}](1-0) line spectra and moment-0 maps}}{117}{figure.4.7}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{117}{subfigure.7.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{117}{subfigure.7.2}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces 4C+03.24: [\textup {C\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {i}}}](1-0) moment-0 maps, VLA C-band and Spitzer IRAC 1 images}}{118}{figure.4.8}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{118}{subfigure.8.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{118}{subfigure.8.2}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces 4C 19.71 [\textup {C\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {i}}}](1-0) line spectra and moment-0 maps}}{119}{figure.4.9}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{119}{subfigure.9.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{119}{subfigure.9.2}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces 4C 19.71: [\textup {C\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {i}}}](1-0) moment-0 maps, VLA C-band and Spitzer IRAC 1 images}}{120}{figure.4.10}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{120}{subfigure.10.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{120}{subfigure.10.2}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces TN J1338-1942: [\textup {C\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {i}}}](1-0) line spectra and moment-0 maps}}{122}{figure.4.11}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{122}{subfigure.11.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{122}{subfigure.11.2}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces TN 1338-1942: [\textup {C\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {i}}}](1-0) moment-0 maps, VLA C-band and Spitzer IRAC 1 images}}{123}{figure.4.12}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{123}{subfigure.12.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{123}{subfigure.12.2}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces 4C+04.11 [\textup {C\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {i}}}](1-0) line spectra and moment-0 maps}}{124}{figure.4.13}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{124}{subfigure.13.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{124}{subfigure.13.2}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces 4C+04.11: [\textup {C\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {i}}}](1-0) moment-0 maps, VLA C-band and Spitzer IRAC 1 images}}{125}{figure.4.14}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{125}{subfigure.14.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{125}{subfigure.14.2}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces $L'_{\rm [\textup {C\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {i}}}](1-0)}$ vs $L'_{\rm CO(1-0)}$ of lensed dSFGs and HzRGs}}{128}{figure.4.15}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1}{\ignorespaces 4C+03.24 \textup {He\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {ii}}} line and best-fit}}{136}{figure.0.1}
+\contentsline {figure}{\numberline {2}{\ignorespaces 4C+04.11 \textup {He\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {ii}}} line and best-fit}}{137}{figure.0.2}
+\contentsline {figure}{\numberline {3}{\ignorespaces MRC 0943-242 \textup {He\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {ii}}} line and best-fit}}{137}{figure.0.3}
+\contentsline {figure}{\numberline {4}{\ignorespaces TN J0121+1320 \textup {He\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {ii}}} line and best-fit}}{138}{figure.0.4}
+\contentsline {figure}{\numberline {5}{\ignorespaces TN J0205+2422 \textup {He\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {ii}}} line and best-fit}}{138}{figure.0.5}
+\contentsline {figure}{\numberline {6}{\ignorespaces 4C19.71 \textup {He\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {ii}}} line and best-fit}}{139}{figure.0.6}
+\contentsline {figure}{\numberline {7}{\ignorespaces TN J1338-1942 \textup {He\tmspace +\thinmuskip {.1667em}\textsc {\lowercase {ii}}} line and best-fit}}{139}{figure.0.7}

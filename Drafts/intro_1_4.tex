@@ -1,0 +1,48 @@
+\documentclass[10pt,a4paper,draft]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{natbib}
+\textwidth 420pt
+\parindent 0pt
+\oddsidemargin 20pt
+\usepackage{url,hyperref}
+
+% journal shorthand
+\newcommand\aj{AJ}                   	% Astronomical Journal (the)
+\newcommand\mnras{MNRAS}    % Monthly Notices of the Royal Astronomical Society
+\newcommand\aap{A\&A}              % Astronomy and Astrophysics
+\newcommand\apjs{ApJS}               % Astrophysical Journal, Supplement
+\newcommand\apj{ApJ}                 % Astrophysical Journal
+\newcommand\nat{Nature}              % Nature
+\newcommand\araa{ARA\&A}             % Annual Review of Astronomy and Astrophysics
+\newcommand\aapr{A\&ARv}             % Astronomy and Astrophysics Review (the)
+
+\begin{document}
+
+\title{{\bf DRAFT 1:} section 1.4 - Thesis Outline}
+\author{S. Kolwa}
+\maketitle
+
+\section{General Thesis Outline}
+% What is the purpose of this thesis?
+% What does it aim to achieve ?
+% How does it do this?
+
+The main aim of this thesis is to demonstrate that the mechanical power of radio jets play a significant role in altering the morphology, kinematics and ionisation state of the multi-phase gaseous environment from the ISM to the CGM at the $\sim$100 kpc scale. To achieve this, I have obtained narrow-band imaging and spectra from IFU data acquired by the VLT/MUSE instrument. The spectral window of MUSE permits the detection of rest-UV lines at $z \gtrsim 2.9$ with which I trace the ionised gas within the gaseous haloes of the seven HzRGs in the sample. Additionally, comparisons of our measurements (in particular, column density ratios) to photoionisation models provide a constraint on the ionisation state of the gas. With data from Atacama Large Millimetre/sub-mm Array (ALMA), I trace molecular hydrogen, H$_2,$ by way of the [CI](1-0) fine structure line. With this as a tracer, I aim to constrain the masses of molecular clouds within the host galaxy ISMs as well as within the extended halo or CGM. I also aim to determine H$_2$ kinematics relative to the jets. Overall, the purpose of this thesis is to provide observational constraints on radio-mode feedback operating within radio galaxies in the early Universe ($2.9 \lesssim z \lesssim 4.6$). 
+
+\subsection{Chapter 2}
+In chapter 2, I explore the influence of radio-jets on the $<1$Mpc-scale environment density. With the use of a nearest neighbour pseudo-3D density measure, I quantify group scale environments of 2716 radio sources within a 100 deg$^2$ area of the Stripe 82 equatorial field. The radio-jet power is traced using 1.4 GHz luminosities (L$_{1.4~\rm GHz}$) detected from the VLA in the CnB configuration. I test for correlations between the environment densities measured to the 2nd and 5th nearest neighbours and radio jet power for radio sources up to $z \sim 0.8.$ This is achieved by comparing the environment density measures of radio-selected AGN to optical sources that are matched by $K-$band magnitudes and $(g-K)$ colour indices. 
+
+For this published paper, I developed the Python code required to obtain all of the main results. As the primary author, I was responsible for assembling the initial and follow-up drafts of the publication which included searching for relevant literature results to support or disprove our conclusions. 
+
+\subsection{Chapter 3}
+Chapter 3 is a single-source paper. In it, I used MUSE data to explore the kinematics of ionised and neutral gas within the ISM and CGM of a $z=2.92$ radio galaxy, MRC 0943-242. I do so by parametrising rest-UV lines detected around the nucleus in terms of their emission components which I fit using multivariate Gaussian functions. The resonant rest-UV lines permit us to quantify absorption and I fit these with composite Voigt and Gaussian functions. I compare the column densities obtained from Voigt profile fitting to predictions based on photoionisation models with {\it Cloudy}. The aim of this is to determine the dominant ionising mechanism powering the metal-rich absorbers and determine their distance from the ionising source. 
+
+For this published paper, I reduced the data via a standard ESO pipeline - {\it Esorex} - for IFU data producing the final datacube that formed the dataset. I developed the Python code required to obtain all the results shown in the paper. I compiled literature results relevant to the topic and arranged it into the write-up that would be submitted to the journal for eventual publication.  
+
+\subsection{Chapter 4}
+In chapter 4, I have taken ALMA [CI]$^3$P$_1$ - $^3$P$_0$ line and continuum observations within a $4 \times 4$ arcec$^2$ field of view for seven radio galaxies between $2.9 \lesssim z \lesssim 4.6.$ The [CI](1-0) line traces molecular hydrogen and thus I use it to constrain H$_2$ masses within and surrounding the host galaxies. The [CI](1-0) lines are also used to measure the kinematics of H$_2$ gas from their degree of line-broadening. 
+
+For this thesis chapter, I reduced and imaged the interferometric observations using the standard reduction pipeline - {\it Casa}. I developed the Python code required to obtain the results shown in the form of images and spectra. I assembled literature results to provide background for the research and worked on drafting write-up. 
+
+\end{document}

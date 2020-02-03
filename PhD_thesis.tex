@@ -1,0 +1,229 @@
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%            LMU-Vorlage              %%
+%%                                     %%
+%%         zur Erstellung einer        %%
+%%   Dissertation mit pdflatex/latex   %%
+%%                                     %%
+%%  (2002) Robert Dahlke               %%
+%%         & Sigmund Stintzing         %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[12pt]{book}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%   Zusaetzliche Pakete  %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{a4wide}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage[bookmarks]{hyperref}
+\usepackage{graphicx}
+\usepackage{natbib}
+\usepackage{rotating}
+\usepackage[caption = false]{subfig}
+\usepackage{dcolumn}
+\usepackage{amsmath,amsfonts, amssymb}
+\usepackage{txfonts}
+\usepackage[export]{adjustbox}
+\usepackage{newtxtext,newtxmath}
+\usepackage[Bjornstrup]{fncychap}
+%\usepackage{tgheros}
+%\usepackage{fontspec}
+%\setmainfont{Garamond}
+%\setmonofont{Garamond}
+%\setsansfont{Garamond}
+
+% important commands
+\providecommand{\s}[1]{\text{#1}}
+\providecommand{\ion}[2]{\textup{#1\,\textsc{\lowercase{#2}}}}
+\providecommand{\lya}[0]{Ly$\alpha$}
+\providecommand{\lam}[0]{\lambda}
+\providecommand{\e}[1]{\times 10^{#1}}
+\providecommand{\mc}[1]{\multicolumn{1}{c}{#1}}
+
+\newcommand{\ang}{\mbox{\normalfont\AA }}
+\newcommand{\ditto}[1][.4pt]{\xrfill{#1}~~\textquotedbl~~\xrfill{#1}}
+\newcommand{\pkg}[1]{\textup{\textsc{#1}}}
+
+\newcommand*\sun{\ensuremath{\odot}}
+\newcommand*\degr{\ensuremath{^\circ}}
+\newcommand*\arcmin{\ensuremath{^\prime}}
+\newcommand*\arcsec{\ensuremath{^{\prime\prime}}}
+\renewcommand{\familydefault}{\sfdefault}
+
+% Journal abbreviations
+\newcommand\mnras{MNRAS}           	% MNRAS
+\newcommand\araa{ARA\&A}            	% Annual Review of Astronomy and Astrophysics
+\newcommand\apj{ApJ}                		% Astrophysical Journal
+\newcommand\apjl{ApJ}                		% Astrophysical Journal, Letters
+\newcommand\nat{Nature}              		% Nature
+\newcommand\aap{A\&A}                		% Astronomy and Astrophysics
+\newcommand\aj{AJ}                   			% Astronomical Journal (the)
+\newcommand\apjs{ApJS}               		% Astrophysical Journal, Supplement
+\newcommand*\rmxaa{Rev. Mexicana Astron. Astrofis.}
+\newcommand*\na{New A}
+\newcommand\aapr{A\&ARv}             % Astronomy and Astrophysics Review (the)
+\newcommand\pasp{PASP}
+\newcommand\pasa{Publ. Astron. Soc. Australia}
+\newcommand\aaps{AAPS}
+\newcommand\memras{MmRAS}
+\newcommand\procspie{Proc.~SPIE}
+\newcommand\nar{New~Astron.~Rev.}
+\newcommand\baas{BAAS}    
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Definition der Kopfzeile %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pagestyle{fancyplain}
+\renewcommand{\chaptermark}[1]%
+         {\markboth{\thechapter.\ #1}{}}
+\renewcommand{\sectionmark}[1]%
+         {\markright{\thesection\ #1}}
+\lhead[\fancyplain{}{\bfseries\thepage}]%
+    {\fancyplain{}{\bfseries\rightmark}}
+\rhead[\fancyplain{}{\bfseries\leftmark}]%
+    {\fancyplain{}{\bfseries\thepage}}
+\cfoot{}
+
+\usepackage{hyperref}
+\hypersetup {
+pdfpagemode = {UseNone},
+pdftitle = {The kinematic nature of baryons in the multi-phase circumgalactic media of high-redshift radio galaxies},
+pdfauthor = {Sthabile Kolwa},
+pdflang = {de-DE}
+} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%  Definition des Deckblattes und der Titelseite  %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\LMUTitle}[9]{
+  \thispagestyle{empty}
+  \vspace*{\stretch{1}}
+  {\parindent0cm
+   \rule{\linewidth}{.7ex}}
+  \begin{flushright}
+
+    \vspace*{\stretch{1}}
+    \sffamily\bfseries\Huge
+    #1\\
+    \vspace*{\stretch{1}}
+    \sffamily\bfseries\large
+    #2
+    \vspace*{\stretch{1}}
+  \end{flushright}
+  \rule{\linewidth}{.7ex}
+  \vspace*{\stretch{5}}
+  \begin{center}
+    \includegraphics[width=2in]{siegel}
+  \end{center}
+  \vspace*{\stretch{1}}
+  \begin{center}\sffamily\LARGE{#5}\end{center}
+  \newpage
+  \thispagestyle{empty}
+
+  \cleardoublepage
+  \thispagestyle{empty}
+
+  \vspace*{\stretch{1}}
+  {\parindent0cm
+  \rule{\linewidth}{.7ex}}
+  \begin{flushright}
+    \vspace*{\stretch{1}}
+    \sffamily\bfseries\Huge
+    #1\\
+    \vspace*{\stretch{1}}
+    \sffamily\bfseries\large
+    #2
+    \vspace*{\stretch{1}}
+  \end{flushright}
+  \rule{\linewidth}{.7ex}
+
+  \vspace*{\stretch{3}}
+  \begin{center}
+    \Large Dissertation\\
+    \Large an der #4\\
+    \Large der Ludwig--Maximilians--Universit\"at\\
+    \Large M\"unchen\\
+    \vspace*{\stretch{1}}
+    \Large vorgelegt von\\
+    \Large #2\\
+    \Large aus #3\\
+    \vspace*{\stretch{2}}
+    \Large M\"unchen, den #6
+  \end{center}
+
+  \newpage
+  \thispagestyle{empty}
+
+  \vspace*{\stretch{1}}
+
+  \begin{flushleft}
+    \large Erstgutachter:  #7 \\[1mm]
+    \large Zweitgutachter: #8 \\[1mm]
+    \large Tag der m\"undlichen Pr\"ufung: #9\\
+  \end{flushleft}
+
+  \cleardoublepage
+}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%  Beginn des Dokuments  %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+  \frontmatter
+
+
+  \LMUTitle
+      {The kinematic nature of baryons in the multi-phase circumgalactic media of high-redshift radio galaxies}               				% Titel der Arbeit
+      {Sthabile Kolwa}                       				% Vor- und Nachname des Autors
+      {Johannesburg, S\"udafrika}           	% Geburtsort des Autors
+      {Fakult\"atsname}                         		% Name der Fakultaet
+      {M\"unchen 2019}                          		% Ort und Jahr der Erstellung
+      {17 Oktober 2019}                            		% Tag der Abgabe
+      {Prof Dr Paola Caselli}                        % Name des Erstgutachters
+      {Prof Dr Simon White}                        % Name des Zweitgutachters
+      {28 November 2019}                         						% Datum der muendlichen Pruefung
+
+
+  \tableofcontents
+  \markboth{Table of Contents}{Table of Contents}
+ 
+  \listoffigures
+  \markboth{List of Figures}{List of Figures}
+
+  \listoftables
+  \markboth{List of Tables}{List of Tables}
+  \cleardoublepage
+  
+ \phantomsection
+  \include{Zusammenfassung}
+  
+  \cleardoublepage
+   \phantomsection
+  \include{Abstract}
+
+  \mainmatter\setcounter{page}{1}
+  \include{Introduction}
+  \include{Chapter2}
+  \include{Chapter3}
+  \include{Chapter4}
+  \include{Outlook}
+  \include{Appendix}
+
+  \backmatter
+  \include{Bibliography}
+  \markboth{}{}
+
+  \cleardoublepage
+   \phantomsection
+  \include{Thanksgiving}
+   \phantomsection
+  \include{CV}
+
+\end{document}
