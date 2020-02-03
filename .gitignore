@@ -6,5 +6,8 @@
 *.blg
 *.bbl
 *.dvi
+*.lof
+*.toc
+*.gz
 ./Drafts
 ReadMe.txt
