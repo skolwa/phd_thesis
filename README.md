@@ -1,8 +1,10 @@
-# Ph.D. Thesis in Physics (Astronomy)
+# Ph.D. Thesis in Physics 
 
 ## Details
 
-This doctoral thesis was submitted to the Faculty of Physics at the [Ludwig Maximilians University of Munich](https://www.en.physik.uni-muenchen.de/). 
+Dieses Thesis wurde eingereicht an die Fakultät für [Physik Ludwig Maximilians Universität](https://www.en.physik.uni-muenchen.de/)
+
+This thesis was submitted to the Faculty of Physics at the Ludwig Maximilians University of Munich. 
 
 ### Title: 
 
