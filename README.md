@@ -30,7 +30,7 @@ Gasausströmungen hin. Absorptionslinien suggerieren, dass sich eine großskalig
 des Radiojets befindet. Die Position dieses absorbierenden Materials suggeriert, dass es durch
 eine frühzeitig einsetzende AGN Rückkopplung gebildet wurde. Abschließend wird ein Pilotprojekt
 präsentiert, welches die mit ALMA (Atacama Large Milimeter-submilimeter Array) für sieben
-Galaxien mit hoher Rotverschiebung (HzRGs, z >2.9) gemessene \[CI\](1-0) Feinstrukturlinie als
+Galaxien mit hoher Rotverschiebung (HzRGs, z > 2.9) gemessene \[CI\](1-0) Feinstrukturlinie als
 Indikator für molekuklares Gas nutzt. Die \[CI\](1-0) Linie wird alternativ oft als Indikator für molekularen Wasserstoff (H<sub>2</sub>) mit niedriger Metallizität und Dichte genutzt. Das Ergebnis dieses Studie
 zeigt, dass für sechs der sieben HzRGs die \[CI\](1-0) Feinstrukturlinie nicht gemessen werden konnte.
 Für die Galaxie TN J0121+1320 mit z = 3.52 konnte die \[CI\](1-0) Linie jedoch mit einer Halbwertsbreite
@@ -41,8 +41,7 @@ xvi Zusammenfassung
 für kinematisch ruhiges molekulares Gas im zirkumgalaktischen Medium (CGM). Das Fehlen von
 H<sub>2</sub> Gas in sechs von sieben Galaxien bedeutet, dass fast der gesamte Vorrat an molekularem
 Gas schon durch frühere Phasen rascher Sternentstehung aufgebraucht wurde. Diese Studien
-zeigen, dass die Akkretion von Material auf Schwarze Löcher und die Energieabgabe von Radio-
-Jets eine hohe Bedeutung für die Kinematik und Morphologie des Gases im ISM und CGM von
+zeigen, dass die Akkretion von Material auf Schwarze Löcher und die Energieabgabe von Radio-Jets eine hohe Bedeutung für die Kinematik und Morphologie des Gases im ISM und CGM von
 Ragiogalaxien haben.
 
 ### Abstract (EN): 
@@ -61,7 +60,7 @@ region of the z = 2.92 radio galaxy, MRC 0943-242. On the line and continuum spe
 from this region, we parametrise the properties of gas within the galaxy halo in terms of its line
 absorption and emission. By fitting the emission lines, we obtain evidence of gas blueshifted up to ~1000 km s<sup>-1</sup> relative to the galaxy’s systemic velocity, suggesting radio jet-driven bulk outflows of gas. The absorption-line fits indicate the presence of a large-scale (r > 60 kpc), metal-enriched shell of absorbing gas located beyond the bow-shock of the radio jets. The location of this absorbersuggests that it was formed by an early AGN feedback event. 
 Finally, we present a pilot study ofmolecular gas traced by \[CI\](1-0) detected with ALMA (Atacama Large Milimeter-submilimeter Array)
-in seven high-redshift radio galaxies (HzRGs) at z >2.9. The \[CI\](1-0) fine-structure line is
+in seven high-redshift radio galaxies (HzRGs) at z > 2.9. The \[CI\](1-0) fine-structure line is
 often used as an alternative probe for molecular hydrogen, H<sub>2</sub> under low gas density and metallicity conditions. The results show that six of the seven HzRGs in the sample have non-detections
 of \[CI\](1-0). The galaxy TN J0121+1320 at z = 3.52 however, has a clear \[CI\](1-0) detection
 of line-width of FWHM ~ 160 km s<sup>-1</sup> broadened by AGN jet-driven turbulence of molecular gas
